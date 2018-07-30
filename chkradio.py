@@ -17,7 +17,7 @@ for ip in ips:
             client.settimeout(0.3)
             code = client.connect_ex((ip, port))
             if code == 0:
-                print(str(ip) + ' ' + str(port) + ' -> Porta Aberta -- VUNERAVEL')
+                print(str(ip) + ' ' + str(port) + ' -> Porta Aberta!!')
                 if iptmp != ip:
                     os.system('echo ' + ip + '>> ips-vuneraveis.txt')
                 else:
