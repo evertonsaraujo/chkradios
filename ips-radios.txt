@@ -1,1 +1,1 @@
-187.60.19.30 187.60.16.78 187.60.16.10 187.60.16.42 www.google.com.br
+www.uol.com.br www.google.com.br 8.8.8.8 4.2.2.2
